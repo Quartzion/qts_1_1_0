@@ -8,9 +8,9 @@ export default function Services() {
             <section className="services-content">
                 <article className="service-card">
                     <picture>
-                        <source srcSet='Services_1.webp' type='image/webp'/>
+                        <source srcSet='./Services_1.webp' type='image/webp'/>
                         <img 
-                            src='Services_1.jpg' 
+                            src='./Services_1.jpg' 
                             alt='stock photo for technical analysis' 
                             className="service-image" 
                             loading='lazy'
@@ -23,9 +23,9 @@ export default function Services() {
                 </article>
                 <article className="service-card">
                     <picture>
-                        <source srcSet='Services_2.webp' type='image/webp'/>
+                        <source srcSet='./Services_2.webp' type='image/webp'/>
                         <img 
-                            src='Services_2.jpg' 
+                            src='./Services_2.jpg' 
                             alt='stock photo for troubleshooting' 
                             className="service-image"
                             loading='lazy'
@@ -38,9 +38,9 @@ export default function Services() {
                 </article>
                 <article className="service-card">
                     <picture>
-                        <source srcSet='Services_3.webp' type='image/webp'/>
+                        <source srcSet='./Services_3.webp' type='image/webp'/>
                         <img 
-                            src='Services_3.jpg' 
+                            src='./Services_3.jpg' 
                             alt='stock photo for solution development' 
                             className="service-image" 
                             loading='lazy'

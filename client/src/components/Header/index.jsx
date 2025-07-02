@@ -10,9 +10,9 @@ export default function Header() {
             <Container fluid className="header-container">
                 <h1 className="visually-hidden">Quartzion Technology Solutions Logo</h1>
                 <picture>
-                    <source srcSet="QTS_L2_W_C.webp" type="image/webp"/>
+                    <source srcSet="./QTS_L2_W_C.webp" type="image/webp"/>
                     <img 
-                        src="QTS_L2_W_C.png" 
+                        src="./QTS_L2_W_C.png" 
                         alt="Quartzion Logo" 
                         className="header-logo"
                         loading='lazy'

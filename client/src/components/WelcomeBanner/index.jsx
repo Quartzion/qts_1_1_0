@@ -4,9 +4,9 @@ export default function WelcomeBanner() {
         <header className="welcome-banner">
               
             <picture>
-                <source srcSet='welcome-banner-1.webp' type='image/webp' />
+                <source srcSet='./welcome-banner-1.webp' type='image/webp' />
                 <img
-                    src="welcome-banner-1.png"
+                    src="./welcome-banner-1.png"
                     alt="Welcome to Quartzion Technology Solutions"
                 />
             </picture>
