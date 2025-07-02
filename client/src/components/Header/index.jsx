@@ -12,7 +12,7 @@ export default function Header() {
                 <picture>
                     <source srcSet="/QTS_L2_W_C.webp" type="image/webp"/>
                     <img 
-                        src="/QTS_L2_W_C.png" 
+                        src="QTS_L2_W_C.png" 
                         alt="Quartzion Logo" 
                         className="header-logo"
                         loading='lazy'

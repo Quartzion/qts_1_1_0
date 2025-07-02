@@ -36,7 +36,7 @@ export default function Blogs() {
 
     const blogs = [
         {
-            img: "/blog_2.webp",
+            img: "blog_2.webp",
             title: "Empowering Non-Profits with Durable Technology: Reducing Overhead & Enhancing Donor Engagement",
             content: `In today’s connected world, non-profit organizations face the dual challenge of delivering meaningful impact while operating on lean budgets. As the need for transparency, efficiency, and accessibility grows, forward-thinking organizations are turning to lightweight, purpose-built technology solutions to optimize internal systems, better serve their communities, and amplify fundraising efforts.
                             At Quartzion Technology Solutions Corp., we understand that for non-profits, every dollar counts. That’s why we specialize in designing and implementing cost-effective, scalable technology that aligns with mission-driven goals while minimizing operational overhead. With over a decade of experience in delivering smart software solutions, our team is dedicated to helping non-profits harness modern tools to increase donor confidence, improve community access, and generate sustained support.
@@ -64,7 +64,7 @@ export default function Blogs() {
                             `
         },
         {
-            img: "/blog_1.webp",
+            img: "blog_1.webp",
             title: "Effective Tech Analysis for Seamless Project Management",
             content: `In the fast-paced world of technology, effective project management is crucial for successful outcomes. At Quartzion Technology Services Corp., we understand the importance of seamless project management when it comes to developing and implementing technology solutions. With our team of industry professionals who have a wealth of experience in software delivery, we take a comprehensive approach to ensure that projects are completed effectively and efficiently.
                             We begin by conducting a thorough analysis of the technology landscape, identifying the specific needs and requirements of each project. This allows us to tailor our solutions to meet the unique challenges faced by our clients. Our team collaborates closely with stakeholders to ensure that all aspects of the project are considered, from initial planning to final execution.
@@ -75,7 +75,7 @@ export default function Blogs() {
                             Effective tech analysis is a cornerstone of seamless project management at Quartzion Technology Services Corp. Additionally Quartzion will provide technical documentation for your project that can be easily shared with other engineering teams for future maintanence, development or audits. Our team is dedicated to delivering results that exceed expectations.`
         },
         {
-            img: "/blog_3.webp",
+            img: "blog_3.webp",
             title: "Strengthening Community Through Smart Technology Integration",
             content: `In the nonprofit sector, meaningful engagement with donors, volunteers, and the communities you serve is critical to fulfilling your mission. At Quartzion Technology Solutions Corp., we believe that the right technology—when thoughtfully integrated—can help organizations build stronger relationships, streamline communication, and enhance the full donation cycle.
                             Our team understands the unique challenges nonprofits face in maximizing outreach while operating with limited resources. That’s why we focus on accessible, scalable solutions that empower nonprofits to deepen community ties and optimize fundraising strategies.
