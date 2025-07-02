@@ -16,7 +16,7 @@ export default function Footer() {
                     <section className="footer-left">
                         <h2 className="visually-hidden">Company Logo</h2>
                         <picture>
-                            <source srcSet="/QTS_L2_W_C.webp" type="image/webp" />
+                            <source srcSet="QTS_L2_W_C.webp" type="image/webp" />
                             <img 
                                 src="QTS_L2_W_C.png" 
                                 alt="Quartzion Logo" 
