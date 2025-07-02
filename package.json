@@ -31,7 +31,7 @@
   "bugs": {
     "url": "https://github.com/Quartzion/qts_1_1_0/issues"
   },
-  "homepage": "https://github.com/Quartzion/qts_1_1_0",
+  "homepage": "https://quartzion.github.io/qts_1_1_0/",
   "dependencies": {
     "bootstrap": "^5.3.7",
     "compression": "^1.8.0",
