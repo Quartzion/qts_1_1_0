@@ -8,7 +8,7 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
     plugins: [react()],
-    base: '/qts_1_1_0/',
+    base: '/',
     build: {
         outDir: 'build',
     },
